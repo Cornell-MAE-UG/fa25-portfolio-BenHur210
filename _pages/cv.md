@@ -1,7 +1,8 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Benjamin Hur - Curriculum Vitae
 permalink: /cv/
+images: /assets/images/christmas-pfp.png
 ---
 ## Curriculum Vitae
 
@@ -13,58 +14,61 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring engineering student with a strong foundation in math. Passionate about CAD and eager to apply my knowledge in real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.8/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **Stuyvesant High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [June, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, SolidWorks, STAAD.Pro  
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** 3D Printing, Lathe, Bandsaw, Endmill 
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Cornell Steel Bridge Project Team**:
+  *Student-run project team that competes in an ASCE annual competition under the same name*  
+  - Organized design intensives (work sessions) to meet timeline goals
+  - Coordinated across subteams to ensure standardized interpretation of analysis results by the end of each session
+  - Developed curriculum for new member education on Fusion 360
+ 
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Engineering Design Bootcamp Autodesk NACME**:  
+  *Short, summer-long formal course on Fusion*  
+  - Underwent formal Fusion 360 training to expand on previously learnt skills, such as parametric modeling and using different workspaces such as the forms workspace, the animation workspace, and creating useful engineering drawings
+  - Obtained the Autodesk Certified User: Fusion certificate through a proctored exam
+
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **UpnUp Education - SAT English and Math Teacher**  
+  July, 2023 - March,2024  
+  - Streamlined student feedback structure into an online process instead of having it take up time in class
+  - Used various spreadsheet tools to quantify student progress across practice exams
+
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- Gates Millenium Scholar, Gates Foundation, 2024  
+- New York State Seal of Biliteracy (Spanish), New York State, 2024  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell Brazilian Jiu Jutsu
 
 ---
 
