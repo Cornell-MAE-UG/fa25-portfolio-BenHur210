@@ -2,6 +2,7 @@
 layout: default
 title: Benjamin Hur - Portfolio
 permalink: /projects/
+collection: pages
 ---
 
 <div class="gallery-container">

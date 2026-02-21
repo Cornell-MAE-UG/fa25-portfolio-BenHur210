@@ -3,6 +3,7 @@ layout: default
 title: Benjamin Hur - Curriculum Vitae
 permalink: /cv/
 images: /assets/images/christmas-pfp.png
+collection: pages
 ---
 ## Curriculum Vitae
 
