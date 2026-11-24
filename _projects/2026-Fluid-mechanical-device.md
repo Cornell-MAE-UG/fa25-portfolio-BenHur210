@@ -1,4 +1,4 @@
 ---
-layout:
-title:
+layout: project
+title: Fluid Mechanical Device Dissection
 ---
